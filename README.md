@@ -1,2 +1,2 @@
 # henbitdeadnettle.github.io
-The website for ajc's random musings
+A website for ajc's random musings
